@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">app5</string>
+    <string name="sexo1">Masculino</string>
+    <string name="sexo2">Femenino</string>
+
+    <string-array name="opciones_sexo">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otros</item>
+        <item>Prefiero no espicarlo</item>
+    </string-array>
+</resources>
